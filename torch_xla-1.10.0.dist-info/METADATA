@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: torch-xla
+Version: 1.10.0
+Summary: XLA bridge for PyTorch
+Home-page: https://github.com/pytorch/xla
+Author: PyTorch/XLA Dev Team
+Author-email: pytorch-xla@googlegroups.com
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE
+Provides-Extra: tpuvm
+Requires-Dist: libtpu-nightly @ https://storage.googleapis.com/cloud-tpu-tpuvm-artifacts-dev/wheels/libtpu-nightly/libtpu_nightly-0.1.dev20211013-py3-none-any.whl ; extra == 'tpuvm'
+
+UNKNOWN
+
